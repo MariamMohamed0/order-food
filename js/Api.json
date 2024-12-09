@@ -1,0 +1,197 @@
+{
+    "popularItems":[
+        {
+            "id":1,
+            "title":"Crunch Grillhouse",
+            "description":"Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+            "img":"img/product/p_1.png",
+            "price":240
+        },
+        {
+            "id":2,
+            "title":"Sizzle Snap Burgers",
+            "description":"Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+            "img":"img/product/p_2.png",
+            "price":200
+        },
+        {
+            "id":3,
+            "title":"Beef Burger",
+            "description":"Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+            "img":"img/product/p_3.png",
+            "price":190
+        },
+        {
+            "id":4,
+            "title":"Tasty Thump Burgers",
+            "description":"Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+            "img":"img/product/p_4.png",
+            "price":270
+        },
+        {
+            "id":5,
+            "title":"Cheese Burger",
+            "description":"Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+            "img":"img/product/p_5.png",
+            "price":280
+        },
+        {
+            "id":6,
+            "title":"Hamburger with cheese",
+            "description":"Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+            "img":"img/product/p_6.png",
+            "price":240
+        },
+        {
+            "id":7,
+            "title":"Double Patty Burgers",
+            "description":"Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+            "img":"img/product/p_7.png",
+            "price":290
+        },
+        {
+            "id":8,
+            "title":"Chicken Cutlet Burger",
+            "description":"Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+            "img":"img/product/p_8.png",
+            "price":220
+        },
+        {
+            "id":9,
+            "title":"Burger Ingredient",
+            "description":"Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+            "img":"img/product/p_9.png",
+            "price":260
+        },
+        {
+            "id":10,
+            "title":"Grilled Chicken Wrap",
+            "description":"Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+            "img":"img/product/p_10.png",
+            "price":260
+        },
+        {
+            "id":11,
+            "title":"Whopper Burger King",
+            "description":"Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+            "img":"img/product/p_1.png",
+            "price":260
+        },
+        {
+            "id":12,
+            "title":"Sonic Blast",
+            "description":"Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+            "img":"img/product/p_12.png",
+            "price":260
+        },
+        {
+            "id":13,
+            "title":"Pepperoni Pizza",
+            "description":"Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+            "img":"img/product/p_13.png",
+            "price":260
+        },
+        {
+            "id":14,
+            "title":"Classic Roast Beef",
+            "description":"Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+            "img":"img/product/p_14.png",
+            "price":260
+        },
+        {
+            "id":15,
+            "title":"Big Mac",
+            "description":"Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+            "img":"img/product/p_15.png",
+            "price":260
+        }
+    ],
+    "special":[
+    {
+        "id": 1,
+        "title": "Combo",
+        "description": "Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+        "img": "img/special/pd_1.png",
+        "price": 240
+      },
+      {
+        "id":2,
+        "title": "Strirps Meal",
+        "description": "Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+        "img": "img/special/pd_2.png",
+        "price": 200
+      },
+      {
+        "id": 3,
+        "title": "King Box",
+        "description": "Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+        "img": "img/special/pd_3.png",
+        "price": 190
+      },
+      {
+        "id":4,
+        "title": "Super Heroes",
+        "description": "Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+        "img": "img/special/pd_4.png",
+        "price": 270
+      },
+      {
+        "id":5,
+        "title": "Bacon Ultimate Cheeseburger",
+        "description": "Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+        "img": "img/special/pd_5.png",
+        "price": 270
+      },
+      {
+        "id":6,
+        "title": "Spicy Chicken Sandwich",
+        "description": "Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+        "img": "img/special/pd_6.png",
+        "price": 270
+      }
+    ],
+      "delicious":[
+      {
+        "id": 1,
+        "title": "Combo",
+        "description": "Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+        "img": "img/categories/c_1.png",
+        "price": 240
+      },
+      {
+        "id":2,
+        "title": "Strirps Meal",
+        "description": "Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+        "img": "img/categories/c_2.png",
+        "price": 200
+      },
+      {
+        "id": 3,
+        "title": "King Box",
+        "description": "Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+        "img": "img/categories/c_3.png",
+        "price": 190
+      },
+      {
+        "id": 4,
+        "title": "Crunchwrap Supreme",
+        "description": "Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+        "img": "img/categories/c_4.png",
+        "price": 190
+      },
+      {
+        "id": 5,
+        "title": "Chicken McNuggets",
+        "description": "Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+        "img": "img/categories/c_5.png",
+        "price": 190
+      },
+      {
+        "id": 6,
+        "title": "Classic Chicken Sandwich",
+        "description": "Lorem ipsum dolor sit amet consectetur. Ut in vulputate ac odio.",
+        "img": "img/categories/c_6.png",
+        "price": 190
+      }
+  ]
+}
